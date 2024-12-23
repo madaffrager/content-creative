@@ -10,6 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <artifactId>discoveryserver</artifactId>
+    <groupId>com.creative</groupId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

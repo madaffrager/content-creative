@@ -10,7 +10,7 @@
         <version>2.7.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
+    <groupId>com.creative</groupId>
     <artifactId>content-service</artifactId>
 
     <properties>

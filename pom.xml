@@ -10,6 +10,7 @@
         <module>api-gateway</module>
         <module>user-service</module>
         <module>content-service</module>
+        <module>management-service</module>
     </modules>
 
     <groupId>com.creative</groupId>

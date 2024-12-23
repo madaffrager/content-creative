@@ -2,7 +2,7 @@ package com.creative.contentservice.config;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import lombok.Value;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.DirectExchange;
