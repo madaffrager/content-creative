@@ -7,6 +7,7 @@
     <modules>
         <module>discoveryserver</module>
         <module>configserver</module>
+        <module>api-gateway</module>
     </modules>
 
     <groupId>com.creative</groupId>
