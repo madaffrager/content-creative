@@ -9,6 +9,7 @@
         <module>configserver</module>
         <module>api-gateway</module>
         <module>user-service</module>
+        <module>content-service</module>
     </modules>
 
     <groupId>com.creative</groupId>
